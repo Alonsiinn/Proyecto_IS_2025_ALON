@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Acceso_Datos\Acceso_Datos.csproj" />
+    <ProjectReference Include="..\BE\Dominio.csproj" />
+    <ProjectReference Include="..\Interface\Interface.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\bin\Debug\net8.0-windows\Dominio.deps.json
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\bin\Debug\net8.0-windows\Dominio.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\bin\Debug\net8.0-windows\Dominio.pdb
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.AssemblyInfoInputs.cache
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.AssemblyInfo.cs
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\refint\Dominio.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\Dominio.pdb
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\BE\obj\Debug\net8.0-windows\ref\Dominio.dll

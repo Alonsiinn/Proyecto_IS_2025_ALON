@@ -1,0 +1,12 @@
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\bin\Debug\net8.0-windows\Acceso_Datos.deps.json
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\bin\Debug\net8.0-windows\Acceso_Datos.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\bin\Debug\net8.0-windows\Acceso_Datos.pdb
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.AssemblyInfo.cs
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\refint\Acceso_Datos.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.pdb
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\ref\Acceso_Datos.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Acceso_Datos\obj\Debug\net8.0-windows\Acceso_Datos.csproj.AssemblyReference.cache
