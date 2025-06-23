@@ -13,3 +13,4 @@ C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria 
 C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Servicios\obj\Debug\net8.0-windows\refint\Servicios.dll
 C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Servicios\obj\Debug\net8.0-windows\Servicios.pdb
 C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Servicios\obj\Debug\net8.0-windows\ref\Servicios.dll
+C:\Users\alons\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\UAI\3ro\Ingenieria de Software\Proyecto_IS_2025_Agustin_Alonso\IS_Pintureria_Alonso\Servicios\obj\Debug\net8.0-windows\Servicios.sourcelink.json

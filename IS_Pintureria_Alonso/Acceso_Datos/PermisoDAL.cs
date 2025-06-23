@@ -30,11 +30,38 @@ namespace Acceso_Datos
             ds.Tables[0].PrimaryKey = new DataColumn[] { ds.Tables[0].Columns["IdPermiso"] };
         }
 
-        public DataSet DevolverDS() => ds;
+        public int InsertarPermisoSP(string nombre, bool esCompuesto)
+        {
+            int idGenerado = 0;
+            using (SqlConnection conn = cx.getConexion())
+            using (SqlCommand cmd = new SqlCommand("sp_InsertarPermiso", conn))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Nombre", nombre);
+                cmd.Parameters.AddWithValue("@EsCompuesto", esCompuesto);
+
+                SqlParameter outParam = new SqlParameter("@IdPermiso", SqlDbType.Int) { Direction = ParameterDirection.Output };
+                cmd.Parameters.Add(outParam);
+
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                idGenerado = (int)outParam.Value;
+               
+            }
+           
+            return idGenerado;
+        }
+
+        public DataSet DevolverDS() {Recargar(); return ds;}
 
         public void GuardarCambios()
         {
             adapter.Update(ds.Tables["Permisos"]);
+        }
+        public void Recargar()
+        {
+            ds.Tables["Permisos"].Clear();
+            adapter.Fill(ds, "Permisos");
         }
     }
 }

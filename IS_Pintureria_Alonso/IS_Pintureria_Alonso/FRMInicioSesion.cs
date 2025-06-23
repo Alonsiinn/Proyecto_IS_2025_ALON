@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Aplicacion;
+using Dominio;
+using Servicios;
+using Servicios.Login;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,20 +11,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Dominio;
-using Servicios;
-using Servicios.Login;
-using Aplicacion;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace IS_Pintureria_Alonso
 {
     public partial class FRMInicioSesion : Form
     {
+        FRMMenuV2 menu;
         UsuarioBLL _usuarioBLL;
         public FRMInicioSesion()
         {
             InitializeComponent();
-            _usuarioBLL = new UsuarioBLL();   
+            this.StartPosition = FormStartPosition.CenterScreen;
+            _usuarioBLL = new UsuarioBLL();
+            
+        }
+
+        public FRMInicioSesion(FRMMenuV2 Menu)
+        {
+            InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
+            _usuarioBLL = new UsuarioBLL();
+            menu = Menu;
         }
 
         private void FRMInicioSesion_Load(object sender, EventArgs e)
@@ -30,17 +42,17 @@ namespace IS_Pintureria_Alonso
 
         private void btnIniciar_Click_1(object sender, EventArgs e)
         {
-            try 
-            { 
-            var user = _usuarioBLL.Login(txtUsuario.Text, txtContrasena.Text);
-            FRMMenu menu = (FRMMenu)this.MdiParent;
-            menu.ValidarForm();
-                //menu.ShowDialog();
-            
-            this.Close();
-        
+            try
+            {
+                _usuarioBLL.Login(txtUsuario.Text, txtContrasena.Text);
+                menu.ValidarForm();
+                menu.Show();
+
+
+                this.Close();
+
             }
-            catch(LoginException ex)
+            catch (LoginException ex)
             {
                 switch (ex.Result)
                 {
@@ -52,6 +64,9 @@ namespace IS_Pintureria_Alonso
                         break;
                     case LoginResult.CuentaBloqueada:
                         MessageBox.Show("Usuario bloqueado");
+                        break;
+                    case LoginResult.CuentaAbierta:
+                        MessageBox.Show("Cuenta abierta, no puede iniciar sesión");
                         break;
                     default:
                         MessageBox.Show("Error desconocido");
@@ -74,6 +89,19 @@ namespace IS_Pintureria_Alonso
              {
                  MessageBox.Show(ex.Message);
              }*/
+        }
+
+        private void btnRegistrarse_Click(object sender, EventArgs e)
+        {
+            FRMRegistroCliente fRMRegistroCliente = new FRMRegistroCliente(menu);
+            fRMRegistroCliente.Show();
+            this.Hide();
+        }
+
+        private void FRMInicioSesion_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            
+         
         }
     }
 }

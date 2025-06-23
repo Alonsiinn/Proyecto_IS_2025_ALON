@@ -19,6 +19,13 @@ namespace Dominio
 
         public void Agregar(IPermisoComponente componente)
         {
+            if(componente is PermisoCompuesto compuesto)
+            {
+                if(compuesto.componentes.Any(c => c.Nombre == this.Nombre))
+                {
+                    throw new InvalidOperationException($"El componente '{componente.Nombre}' contiene a '{this.Nombre}', por lo que habria un ciclo.");
+                }
+            }
             componentes.Add(componente);
         }
 

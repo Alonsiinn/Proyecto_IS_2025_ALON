@@ -34,5 +34,10 @@ namespace Servicios.Login
             return _usuario != null;
         }
 
+        public string GetRol()
+        {
+            return _usuario?.TipoUsuario ?? string.Empty;
+        }
+
     }
 }

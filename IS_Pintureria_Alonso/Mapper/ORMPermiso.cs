@@ -28,23 +28,14 @@ namespace Mapper
         {
             if (permiso.Id != 0) return;
 
-            DataRow dr = dtPermisos.NewRow();
-            dr["IdPermiso"] = RecuperarUltimo() + 1; 
-            dr["Nombre"] = permiso.Nombre;
-            dr["EsCompuesto"] = permiso is PermisoCompuesto ? 1 : 0;
-            dtPermisos.Rows.Add(dr);
-            permisoDAL.GuardarCambios();
-
-            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
-
-
-            permiso.Id = Convert.ToInt32(dtPermisos.Rows[^1]["IdPermiso"]);
+            int nuevoID = permisoDAL.InsertarPermisoSP(permiso.Nombre, permiso is PermisoCompuesto);
+            permiso.Id = nuevoID;
 
             if (permiso is PermisoCompuesto compuesto)
             {
                 foreach (var hijo in compuesto.ObtenerComponentes())
                 {
-                    Add(hijo); 
+                    Add(hijo); // Recursivo
 
                     DataRow rel = dtComponentes.NewRow();
                     rel["IdPadre"] = permiso.Id;
@@ -54,6 +45,9 @@ namespace Mapper
 
                 componenteDAL.GuardarCambios();
             }
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
+            
         }
 
         public IPermisoComponente GetByID(int id)
@@ -89,6 +83,8 @@ namespace Mapper
 
         public List<IPermisoComponente> DevolverTodos()
         {
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
             List<IPermisoComponente> permisos = new();
 
             foreach (DataRow row in dtPermisos.Rows)
@@ -110,6 +106,8 @@ namespace Mapper
                 row["EsCompuesto"] = entity is PermisoCompuesto ? 1 : 0;
                 permisoDAL.GuardarCambios();
             }
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
         }
 
         public void Delete(IPermisoComponente entity)
@@ -127,6 +125,8 @@ namespace Mapper
                 row.Delete();
                 permisoDAL.GuardarCambios();
             }
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
         }
 
         public bool Existe(string username)
@@ -136,8 +136,29 @@ namespace Mapper
 
         public int RecuperarUltimo()
         {
-
+            if (dtPermisos.Rows.Count == 0) return 0;
             return Convert.ToInt32(dtPermisos.Rows[dtPermisos.Rows.Count - 1]["IdPermiso"]);
+        }
+        public void AgregarRelacion(int idPadre, int idHijo)
+        {
+            DataRow rel = dtComponentes.NewRow();
+            rel["IdPadre"] = idPadre;
+            rel["IdHijo"] = idHijo;
+            dtComponentes.Rows.Add(rel);
+            componenteDAL.GuardarCambios();
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
+        }
+
+        public void EliminarRelacion(int idPadre, int idHijo)
+        {
+            foreach (DataRow row in dtComponentes.Select($"IdPadre = {idPadre} AND IdHijo = {idHijo}"))
+            {
+                row.Delete();
+            }
+            componenteDAL.GuardarCambios();
+            dtPermisos = permisoDAL.DevolverDS().Tables["Permisos"];
+            dtComponentes = componenteDAL.DevolverDS().Tables["PermisoComponentes"];
         }
     }
 }

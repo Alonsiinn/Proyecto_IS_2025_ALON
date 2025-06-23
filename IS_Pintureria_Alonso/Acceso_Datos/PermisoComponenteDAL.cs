@@ -29,11 +29,16 @@ namespace Acceso_Datos
             adapter.Fill(ds, "PermisoComponentes");
         }
 
-        public DataSet DevolverDS() => ds;
+        public DataSet DevolverDS() { Recargar(); return ds; }
 
         public void GuardarCambios()
         {
             adapter.Update(ds.Tables["PermisoComponentes"]);
+        }
+        public void Recargar()
+        {
+            ds.Tables["PermisoComponentes"].Clear();
+            adapter.Fill(ds, "PermisoComponentes");
         }
     }
 }

@@ -3,84 +3,160 @@
   "WorkspaceRootPath": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\permisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\permisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\permisocomponentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\permisocomponentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\latapinturadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\latapinturadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\login\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\login\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\facturadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\facturadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\notificaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\notificaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\pedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\pedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmcatalogopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmcatalogopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmdatosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmdatosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\permisocomponentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\permisocomponentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\pedidobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\pedidobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\detallepedidobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\detallepedidobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\controlesusuario\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\controlesusuario\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmdatosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmdatosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmcatalogopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmcatalogopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmdetectarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmdetectarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmmenuv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmmenuv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\login\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\login\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\permisocompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\permisocompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmdetectarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmdetectarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormlatapintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormlatapintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\latapinturabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\latapinturabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\latapintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\latapintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\usuariopermisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\usuariopermisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\ipermisocomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\ipermisocomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmmenuv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmmenuv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA80234E-D175-432C-AFA8-021BFDEE0BEF}|Interface\\Interface.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA80234E-D175-432C-AFA8-021BFDEE0BEF}|Interface\\Interface.csproj|solutionrelative:interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\permisocompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\permisocompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmselectopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\permisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\permisodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\permisosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,12 +171,160 @@
       "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\login\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\stockdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\stockdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\detallepedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\detallepedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\stockbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\stockbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormsucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormsucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\sucursalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\sucursalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\controlesusuario\\camposusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\controlesusuario\\camposusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\controlesusuario\\camposusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\controlesusuario\\camposusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\acceso_datos\\usuariosucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38E088B-6C14-4CF2-AC3A-95D620E2162F}|Acceso_Datos\\Acceso_Datos.csproj|solutionrelative:acceso_datos\\usuariosucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormusuariosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormusuariosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\usuariosucursalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\usuariosucursalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\usuariosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\usuariosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmregistrousuarioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmregistrousuarioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\is_pintureria_alonso\\frmregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\notificacionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\notificacionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\facturabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\facturabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\aplicacion\\categoriabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841571D2-EFAF-4660-A727-6E9B8AA265EC}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\categoriabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\is_pintureria_alonso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\is_pintureria_alonso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmregistrousuarioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmregistrousuarioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\is_pintureria_alonso\\frmregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99052FAC-A941-4361-9D7E-E5BDFDC24FA7}|IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj|solutionrelative:is_pintureria_alonso\\frmregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\mapper\\ormusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C04AFBD-99AA-49F2-A486-9198B4182DCD}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ormusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\ipermisocomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\ipermisocomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA80234E-D175-432C-AFA8-021BFDEE0BEF}|Interface\\Interface.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA80234E-D175-432C-AFA8-021BFDEE0BEF}|Interface\\Interface.csproj|solutionrelative:interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\login\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\login\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\servicios\\login\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5453BB40-CD95-4CA5-9EB3-B8665CA1F9FA}|Servicios\\Servicios.csproj|solutionrelative:servicios\\login\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|c:\\users\\alons\\onedrive - universidad abierta interamericana\\uai\\3ro\\ingenieria de software\\proyecto_is_2025_agustin_alonso\\is_pintureria_alonso\\be\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D6250-FBE7-4D04-BEC4-0CEE1280A7BF}|BE\\Dominio.csproj|solutionrelative:be\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +334,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 68,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,251 +366,895 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FRMSelectoPermiso.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
-              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs [Dise\u00F1o]",
-              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs [Dise\u00F1o]",
+              "DocumentIndex": 17,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\InputHelper.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\ControlesUsuario\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\InputHelper.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\ControlesUsuario\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:47:29.835Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-23T00:27:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstadoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\EstadoPedido.cs",
+              "RelativeDocumentMoniker": "BE\\EstadoPedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\EstadoPedido.cs",
+              "RelativeToolTip": "BE\\EstadoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:23:00.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UsuarioBLL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioBLL.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\UsuarioBLL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioBLL.cs",
-              "RelativeToolTip": "Aplicacion\\UsuarioBLL.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAWwCsAAAAIAAAAAAAAAA==",
+              "Title": "FRMDatosProducto.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwI4AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T22:19:01.17Z",
+              "WhenOpened": "2025-06-22T01:59:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FRMDatosProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMDatosProducto.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDatosProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMDatosProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:54:25.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRMCatalogoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAABYAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:44:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FRMCatalogoPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMCatalogoPedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMCatalogoPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMCatalogoPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:42:54.553Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FRMDetectarColor.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:07:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FRMDetectarColor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMDetectarColor.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMDetectarColor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMDetectarColor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T23:59:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UsuarioSucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioSucursalDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\UsuarioSucursalDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioSucursalDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\UsuarioSucursalDAL.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwBgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:41:40.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ORMUsuarioSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuarioSucursal.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMUsuarioSucursal.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuarioSucursal.cs",
+              "RelativeToolTip": "Mapper\\ORMUsuarioSucursal.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:39:54.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UsuarioSucursalBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioSucursalBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\UsuarioSucursalBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioSucursalBLL.cs",
+              "RelativeToolTip": "Aplicacion\\UsuarioSucursalBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:39:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UsuarioSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\UsuarioSucursal.cs",
+              "RelativeDocumentMoniker": "BE\\UsuarioSucursal.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\UsuarioSucursal.cs",
+              "RelativeToolTip": "BE\\UsuarioSucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:38:43.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StockDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\StockDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\StockDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\StockDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\StockDAL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAtwIMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:28:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ORMStock.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMStock.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMStock.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMStock.cs",
+              "RelativeToolTip": "Mapper\\ORMStock.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:22:56.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StockBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\StockBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\StockBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\StockBLL.cs",
+              "RelativeToolTip": "Aplicacion\\StockBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:21:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Stock.cs",
+              "RelativeDocumentMoniker": "BE\\Stock.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Stock.cs",
+              "RelativeToolTip": "BE\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:20:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\SucursalDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\SucursalDAL.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAewJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:55:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ORMSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMSucursal.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMSucursal.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMSucursal.cs",
+              "RelativeToolTip": "Mapper\\ORMSucursal.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:54:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SucursalBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\SucursalBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\SucursalBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\SucursalBLL.cs",
+              "RelativeToolTip": "Aplicacion\\SucursalBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:53:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Sucursal.cs",
+              "RelativeDocumentMoniker": "BE\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Sucursal.cs",
+              "RelativeToolTip": "BE\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:48:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ORMNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMNotificacion.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMNotificacion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMNotificacion.cs",
+              "RelativeToolTip": "Mapper\\ORMNotificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:03:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificacionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\NotificacionDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\NotificacionDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\NotificacionDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\NotificacionDAL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowIkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:03:02.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "NotificacionBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\NotificacionBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\NotificacionBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\NotificacionBLL.cs",
+              "RelativeToolTip": "Aplicacion\\NotificacionBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:02:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Notificacion.cs",
+              "RelativeDocumentMoniker": "BE\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Notificacion.cs",
+              "RelativeToolTip": "BE\\Notificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:02:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FRMRegistroCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMRegistroCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:47:17.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ORMFactura.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMFactura.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMFactura.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMFactura.cs",
+              "RelativeToolTip": "Mapper\\ORMFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:47:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\FacturaDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\FacturaDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\FacturaDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\FacturaDAL.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwI0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:46:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FacturaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\FacturaBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\FacturaBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\FacturaBLL.cs",
+              "RelativeToolTip": "Aplicacion\\FacturaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:46:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Factura.cs",
+              "RelativeDocumentMoniker": "BE\\Factura.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Factura.cs",
+              "RelativeToolTip": "BE\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:45:16.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DetallePedidoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\DetallePedidoDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\DetallePedidoDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\DetallePedidoDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\DetallePedidoDAL.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwHIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:05:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ORMDetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMDetallePedido.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMDetallePedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMDetallePedido.cs",
+              "RelativeToolTip": "Mapper\\ORMDetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:03:08.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetallePedidoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\DetallePedidoBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\DetallePedidoBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\DetallePedidoBLL.cs",
+              "RelativeToolTip": "Aplicacion\\DetallePedidoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:55:06.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Usuario.cs",
-              "RelativeDocumentMoniker": "BE\\Usuario.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Usuario.cs",
-              "RelativeToolTip": "BE\\Usuario.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAlwB8AAAAIAAAAAAAAAA==",
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "BE\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\DetallePedido.cs",
+              "RelativeToolTip": "BE\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:07:32.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FRMMenu.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenu.cs",
-              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMMenu.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenu.cs",
-              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMMenu.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:12:00.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ORMPermiso.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPermiso.cs",
-              "RelativeDocumentMoniker": "Mapper\\ORMPermiso.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPermiso.cs",
-              "RelativeToolTip": "Mapper\\ORMPermiso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:27:44.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Sesion.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\Sesion.cs",
-              "RelativeDocumentMoniker": "Servicios\\Login\\Sesion.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\Sesion.cs",
-              "RelativeToolTip": "Servicios\\Login\\Sesion.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAjwCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:51:43.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PermisoComponenteDAL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoComponenteDAL.cs",
-              "RelativeDocumentMoniker": "Acceso_Datos\\PermisoComponenteDAL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoComponenteDAL.cs",
-              "RelativeToolTip": "Acceso_Datos\\PermisoComponenteDAL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:25:29.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ORMUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuario.cs",
-              "RelativeDocumentMoniker": "Mapper\\ORMUsuario.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuario.cs",
-              "RelativeToolTip": "Mapper\\ORMUsuario.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAjwHsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:49:24.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PermisoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoDAL.cs",
-              "RelativeDocumentMoniker": "Acceso_Datos\\PermisoDAL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoDAL.cs",
-              "RelativeToolTip": "Acceso_Datos\\PermisoDAL.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:27:30.166Z",
+              "WhenOpened": "2025-06-19T20:54:44.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Encriptacion.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Seguridad\\Encriptacion.cs",
-              "RelativeDocumentMoniker": "Servicios\\Seguridad\\Encriptacion.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Seguridad\\Encriptacion.cs",
-              "RelativeToolTip": "Servicios\\Seguridad\\Encriptacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB4AAAAIAAAAAAAAAA==",
+              "Title": "ORMPedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPedido.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMPedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPedido.cs",
+              "RelativeToolTip": "Mapper\\ORMPedido.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAnwHMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:48:31.35Z",
+              "WhenOpened": "2025-06-19T20:39:55.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "PedidoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PedidoDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\PedidoDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PedidoDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\PedidoDAL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAKUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:39:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PedidoBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\PedidoBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PedidoBLL.cs",
+              "RelativeToolTip": "Aplicacion\\PedidoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:38:56.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Pedido.cs",
+              "RelativeDocumentMoniker": "BE\\Pedido.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Pedido.cs",
+              "RelativeToolTip": "BE\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:38:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ORMLataPintura.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMLataPintura.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMLataPintura.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMLataPintura.cs",
+              "RelativeToolTip": "Mapper\\ORMLataPintura.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:26:31.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LataPinturaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\LataPinturaDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\LataPinturaDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\LataPinturaDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\LataPinturaDAL.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwKQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:26:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LataPinturaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\LataPinturaBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\LataPinturaBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\LataPinturaBLL.cs",
+              "RelativeToolTip": "Aplicacion\\LataPinturaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:25:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LataPintura.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\LataPintura.cs",
+              "RelativeDocumentMoniker": "BE\\LataPintura.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\LataPintura.cs",
+              "RelativeToolTip": "BE\\LataPintura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:25:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\CategoriaDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\CategoriaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:19:55.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ORMCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMCategoria.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMCategoria.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMCategoria.cs",
+              "RelativeToolTip": "Mapper\\ORMCategoria.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:13:58.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CategoriaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\CategoriaBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\CategoriaBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\CategoriaBLL.cs",
+              "RelativeToolTip": "Aplicacion\\CategoriaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:12:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Categoria.cs",
+              "RelativeDocumentMoniker": "BE\\Categoria.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Categoria.cs",
+              "RelativeToolTip": "BE\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:09:52.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ProductoDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\ProductoDAL.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAD4v5sAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:59:01.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ORMProducto.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMProducto.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMProducto.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMProducto.cs",
+              "RelativeToolTip": "Mapper\\ORMProducto.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:56:28.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\ProductoBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\ProductoBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\ProductoBLL.cs",
+              "RelativeToolTip": "Aplicacion\\ProductoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:54:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Producto.cs",
+              "RelativeDocumentMoniker": "BE\\Producto.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Producto.cs",
+              "RelativeToolTip": "BE\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:17:42.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\Program.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\Program.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\Program.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T19:53:02.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IS_Pintureria_Alonso.csproj",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\IS_Pintureria_Alonso.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T19:47:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FRMMenuV2.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T19:12:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FRMRegistroUsuarioADM.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:51:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FRMRegistroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMRegistroCliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:50:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\LoginResult.cs",
+              "RelativeDocumentMoniker": "BE\\LoginResult.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\LoginResult.cs",
+              "RelativeToolTip": "BE\\LoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:34:08.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CamposUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwFIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:59:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "FRMSelectoPermiso.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
               "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
               "RelativeToolTip": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAzwG0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwF4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T18:51:49.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FRMInicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "ORMPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPermiso.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMPermiso.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMPermiso.cs",
+              "RelativeToolTip": "Mapper\\ORMPermiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:19:24.678Z",
+              "WhenOpened": "2025-06-12T18:27:44.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PermisoBLL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PermisoBLL.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\PermisoBLL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PermisoBLL.cs",
-              "RelativeToolTip": "Aplicacion\\PermisoBLL.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 40,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ConexionSQL.cs",
+              "RelativeToolTip": "Acceso_Datos\\ConexionSQL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:59:33.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T15:44:58.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FRMInicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMInicioSesion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:54:35.007Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UsuarioPermisoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioPermisoDAL.cs",
-              "RelativeDocumentMoniker": "Acceso_Datos\\UsuarioPermisoDAL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioPermisoDAL.cs",
-              "RelativeToolTip": "Acceso_Datos\\UsuarioPermisoDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:36:46.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FRMMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenu.cs",
-              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMMenu.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMMenu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:11:50.499Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "PermisoCompuesto.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\PermisoCompuesto.cs",
               "RelativeDocumentMoniker": "BE\\PermisoCompuesto.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\PermisoCompuesto.cs",
               "RelativeToolTip": "BE\\PermisoCompuesto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:15:44.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
+              "Title": "PermisoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\PermisoDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\PermisoDAL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:27:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\UsuarioBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\UsuarioBLL.cs",
+              "RelativeToolTip": "Aplicacion\\UsuarioBLL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:19:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioPermisoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioPermisoDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\UsuarioPermisoDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioPermisoDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\UsuarioPermisoDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:36:46.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PermisoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PermisoBLL.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\PermisoBLL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Aplicacion\\PermisoBLL.cs",
+              "RelativeToolTip": "Aplicacion\\PermisoBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:59:33.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\Usuario.cs",
+              "RelativeToolTip": "BE\\Usuario.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4v4sAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:07:32.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PermisoComponenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoComponenteDAL.cs",
+              "RelativeDocumentMoniker": "Acceso_Datos\\PermisoComponenteDAL.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\PermisoComponenteDAL.cs",
+              "RelativeToolTip": "Acceso_Datos\\PermisoComponenteDAL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:25:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\Sesion.cs",
+              "RelativeDocumentMoniker": "Servicios\\Login\\Sesion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\Sesion.cs",
+              "RelativeToolTip": "Servicios\\Login\\Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:51:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ORMUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuario.cs",
+              "RelativeDocumentMoniker": "Mapper\\ORMUsuario.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Mapper\\ORMUsuario.cs",
+              "RelativeToolTip": "Mapper\\ORMUsuario.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:49:24.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Encriptacion.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Seguridad\\Encriptacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\Seguridad\\Encriptacion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Seguridad\\Encriptacion.cs",
+              "RelativeToolTip": "Servicios\\Seguridad\\Encriptacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:48:31.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FRMInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:19:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
               "Title": "IPermisoComponente.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\IPermisoComponente.cs",
               "RelativeDocumentMoniker": "BE\\IPermisoComponente.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\IPermisoComponente.cs",
               "RelativeToolTip": "BE\\IPermisoComponente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:14:00.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:14:00.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 39,
               "Title": "PermisoSimple.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\PermisoSimple.cs",
               "RelativeDocumentMoniker": "BE\\PermisoSimple.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\BE\\PermisoSimple.cs",
               "RelativeToolTip": "BE\\PermisoSimple.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:11:53.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:11:53.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 78,
               "Title": "iCrud.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Interface\\iCrud.cs",
               "RelativeDocumentMoniker": "Interface\\iCrud.cs",
@@ -394,71 +1262,99 @@
               "RelativeToolTip": "Interface\\iCrud.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:58:12.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:58:12.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "LoginException.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\LoginException.cs",
               "RelativeDocumentMoniker": "Servicios\\Login\\LoginException.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\LoginException.cs",
               "RelativeToolTip": "Servicios\\Login\\LoginException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:51:45.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T15:51:45.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginResult.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\LoginResult.cs",
-              "RelativeDocumentMoniker": "Servicios\\Login\\LoginResult.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\LoginResult.cs",
-              "RelativeToolTip": "Servicios\\Login\\LoginResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:51:44.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 79,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\SessionManager.cs",
               "RelativeDocumentMoniker": "Servicios\\Login\\SessionManager.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Servicios\\Login\\SessionManager.cs",
               "RelativeToolTip": "Servicios\\Login\\SessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:51:42.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "UsuarioDAL.cs",
               "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioDAL.cs",
               "RelativeDocumentMoniker": "Acceso_Datos\\UsuarioDAL.cs",
               "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\UsuarioDAL.cs",
               "RelativeToolTip": "Acceso_Datos\\UsuarioDAL.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:49:32.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ConexionSQL.cs",
-              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ConexionSQL.cs",
-              "RelativeDocumentMoniker": "Acceso_Datos\\ConexionSQL.cs",
-              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\Acceso_Datos\\ConexionSQL.cs",
-              "RelativeToolTip": "Acceso_Datos\\ConexionSQL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "FRMMenuV2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMMenuV2.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMMenuV2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMMenuV2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:44:58.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T18:58:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FRMRegistroUsuarioADM.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMRegistroUsuarioADM.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:39:39.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CamposUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\ControlesUsuario\\CamposUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:45:01.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FRMSelectoPermiso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMSelectoPermiso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMSelectoPermiso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:47:29.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FRMInicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "RelativeDocumentMoniker": "IS_Pintureria_Alonso\\FRMInicioSesion.cs",
+              "ToolTip": "C:\\Users\\alons\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\UAI\\3ro\\Ingenieria de Software\\Proyecto_IS_2025_Agustin_Alonso\\IS_Pintureria_Alonso\\IS_Pintureria_Alonso\\FRMInicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IS_Pintureria_Alonso\\FRMInicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:54:35.007Z"
             }
           ]
         },

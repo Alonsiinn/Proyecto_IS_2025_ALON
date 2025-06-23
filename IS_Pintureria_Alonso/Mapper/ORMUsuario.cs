@@ -32,19 +32,26 @@ namespace Mapper
 
         public void Add(Usuario usuario)
         {
-            DataRow dr = dtUsuarios.NewRow();
-            dr["Username"] = usuario.Username;
-            dr["Password"] = usuario.Password;
-            dr["Nombre"] = usuario.Nombre;
-            dtUsuarios.Rows.Add(dr);
-            usuarioDAL.GuardarCambios();
-            usuario.SetID(Convert.ToInt32(dtUsuarios.Rows[^1]["ID_Usuario"]));
+            int nuevoID = usuarioDAL.InsertarUsuarioSP(
+                usuario.Username,
+                usuario.Password,
+                usuario.Nombre,
+                usuario.Apellido,
+                usuario.Email,
+                usuario.FechaNacimiento,
+                usuario.Telefono,
+                usuario.DireccionFiscal,
+                usuario.DNI,
+                usuario.TipoUsuario
+            );
 
-            foreach (var rol in usuario.ObtenerPermisos())
+            usuario.SetID(nuevoID);
+
+            foreach (var permiso in usuario.ObtenerPermisos())
             {
                 DataRow rel = dtUsuarioPermiso.NewRow();
-                rel["IdUsuario"] = usuario.GetID();
-                rel["IdPermiso"] = rol.Id;
+                rel["ID_Usuario"] = nuevoID;
+                rel["IdPermiso"] = permiso.Id;
                 dtUsuarioPermiso.Rows.Add(rel);
             }
 
@@ -59,16 +66,26 @@ namespace Mapper
                 row["Username"] = usuario.Username;
                 row["Password"] = usuario.Password;
                 row["Nombre"] = usuario.Nombre;
+                row["Apellido"] = usuario.Apellido;
+                row["Email"] = usuario.Email;
+                row["FechaNacimiento"] = usuario.FechaNacimiento;
+                row["Telefono"] = usuario.Telefono;
+                row["Direccion_Fiscal"] = usuario.DireccionFiscal;
+                row["DNI"] = usuario.DNI;
+                row["Tipo_Usuario"] = usuario.TipoUsuario;
+                row["Abierta"] = usuario.Abierta;
+                row["Bloqueada"] = usuario.Bloqueada;
+
                 usuarioDAL.GuardarCambios();
             }
 
-            foreach (DataRow rel in dtUsuarioPermiso.Select($"IdUsuario = {usuario.GetID()}"))
+            foreach (DataRow rel in dtUsuarioPermiso.Select($"ID_Usuario = {usuario.GetID()}"))
                 rel.Delete();
 
             foreach (var rol in usuario.ObtenerPermisos())
             {
                 DataRow rel = dtUsuarioPermiso.NewRow();
-                rel["IdUsuario"] = usuario.GetID();
+                rel["ID_Usuario"] = usuario.GetID();
                 rel["IdPermiso"] = rol.Id;
                 dtUsuarioPermiso.Rows.Add(rel);
             }
@@ -78,7 +95,7 @@ namespace Mapper
 
         public void Delete(Usuario usuario)
         {
-            foreach (DataRow rel in dtUsuarioPermiso.Select($"IdUsuario = {usuario.GetID()}"))
+            foreach (DataRow rel in dtUsuarioPermiso.Select($"ID_Usuario = {usuario.GetID()}"))
                 rel.Delete();
 
             usuarioPermisoDAL.GuardarCambios();
@@ -96,17 +113,14 @@ namespace Mapper
             DataRow row = dtUsuarios.Rows.Find(id);
             if (row == null) return null;
 
-            Usuario u = new Usuario(id, row["Username"].ToString(), row["Password"].ToString())
-            {
-                Nombre = row["Nombre"].ToString()
-            };
+            Usuario u = new Usuario(id, row["Username"].ToString(), row["Password"].ToString(), row["Nombre"].ToString(), row["Apellido"].ToString(), row["Email"].ToString(), row["DNI"].ToString(), row["Telefono"].ToString(), row["Direccion_Fiscal"].ToString(), row["Tipo_Usuario"].ToString(), Convert.ToDateTime(row["FechaNacimiento"]), Convert.ToBoolean(row["Abierta"]), Convert.ToBoolean(row["Bloqueada"]));
 
-            foreach (DataRow r in dtUsuarioPermiso.Select($"IdUsuario = {id}"))
+            foreach (DataRow r in dtUsuarioPermiso.Select($"ID_Usuario = {id}"))
             {
                 int idPermiso = Convert.ToInt32(r["IdPermiso"]);
                 var permiso = ormPermiso.GetByID(idPermiso);
-                if (permiso is PermisoCompuesto pc)
-                    u.AgregarPermiso(pc);
+                if (permiso != null)
+                    u.AgregarPermiso(permiso);
             }
 
             return u;
@@ -125,8 +139,9 @@ namespace Mapper
 
         public bool Existe(string username)
         {
-            return dtUsuarios.Select($"Username = '{username}'").Length > 0;
+            return dtUsuarios.AsEnumerable().Any(r => r["Username"].ToString() == username);
         }
+
     }
 }
 

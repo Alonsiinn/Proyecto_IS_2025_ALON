@@ -28,6 +28,36 @@ namespace Acceso_Datos
             useradapter.Fill(ds, "Usuarios");
             ds.Tables[0].PrimaryKey = new DataColumn[] { ds.Tables[0].Columns[0] };
         }
+        public int InsertarUsuarioSP(string username, string password, string nombre, string apellido, string email,
+                              DateTime fechaNacimiento, string telefono, string direccionFiscal, string dni, string tipoUsuario)
+        {
+            int idGenerado = 0;
+            using (SqlConnection conn = cx.getConexion())
+            using (SqlCommand cmd = new SqlCommand("sp_InsertarUsuario", conn))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Username", username);
+                cmd.Parameters.AddWithValue("@Password", password);
+                cmd.Parameters.AddWithValue("@Nombre", nombre);
+                cmd.Parameters.AddWithValue("@Apellido", apellido);
+                cmd.Parameters.AddWithValue("@Email", email);
+                cmd.Parameters.AddWithValue("@FechaNacimiento", fechaNacimiento);
+                cmd.Parameters.AddWithValue("@Telefono", telefono);
+                cmd.Parameters.AddWithValue("@DireccionFiscal", direccionFiscal);
+                cmd.Parameters.AddWithValue("@DNI", dni);
+                cmd.Parameters.AddWithValue("@TipoUsuario", tipoUsuario);
+
+                SqlParameter outParam = new SqlParameter("@IdUsuario", SqlDbType.Int) { Direction = ParameterDirection.Output };
+                cmd.Parameters.Add(outParam);
+
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                idGenerado = (int)outParam.Value;
+            
+            }
+            return idGenerado;
+        }
+
         public DataSet DevolverDS()
         {
             return this.ds;

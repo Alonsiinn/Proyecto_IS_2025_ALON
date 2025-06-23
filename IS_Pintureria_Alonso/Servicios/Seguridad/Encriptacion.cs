@@ -10,24 +10,26 @@ namespace Servicios.Seguridad
     
     public static class Encriptacion
     {
-        public static string GenerarMD5(string input)
+        public static string GenerarSHA256(string input)
         {
             try
             {
-                UnicodeEncoding UeCodigo = new UnicodeEncoding();
-                byte[] bytes = UeCodigo.GetBytes(input);
-                MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider();
-                byte[] hash = md5.ComputeHash(bytes);
-                return Convert.ToBase64String(hash);
+                using (SHA256 sha256Hash = SHA256.Create())
+                {
+                    byte[] bytes = Encoding.UTF8.GetBytes(input);
+                    byte[] hash = sha256Hash.ComputeHash(bytes);
+                    return Convert.ToBase64String(hash);
+                }
             }
-            catch (CryptographicException ex)
+            catch(CryptographicUnexpectedOperationException)
             {
-                throw (ex);
+                throw new Exception ("Error al generar el hash: Algoritmo no soportado o error en la operación criptográfica.");
             }
             catch (Exception ex)
             {
-                throw new Exception("Error al generar el hash MD5: " + ex.Message);
+                throw new Exception("Error al generar el hash: " + ex.Message);
             }
         }
     }
+
 }
